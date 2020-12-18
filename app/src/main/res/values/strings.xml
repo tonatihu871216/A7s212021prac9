@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A7s212021prac9</string>
+    <string name="tituloapp">Agenda</string>
+    <string name="hnombre">Ingrese el Nombre</string>
+    <string name="hedad">Ingrese la Edad</string>
+    <string name="hsexo">Ingresa el sexo</string>
+    <string name="bgrabar">Grabar</string>
+    <string name="dnombre">Nombre</string>
+    <string name="dedad">Edad</string>
+    <string name="dsexo">Sexo</string>
+</resources>
